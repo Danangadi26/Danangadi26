@@ -16,9 +16,11 @@ class Bio extends Cloud Engineer Intern {
 }
 
 class Skills extends Cloud Engineer Intern {
-  languages  = ['JavaScript', 'PHP'];
+  languages  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'PostgreSQL'];
   frameworks = ['Bootstrap', 'Laravel'];
   Cloud = ['AWS', 'Google Cloud Platform'];
 }
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Meet new people,</b> share new stories. <b>Let's connect!</b> ✨</em>
