@@ -2,3 +2,5 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
+<p><em>CLOUD ENGINEER INTERN at <a href="http://www.amital.co.id">Aku Mitra Digital</a></em></p>
+
