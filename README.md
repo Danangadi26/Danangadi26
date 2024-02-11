@@ -4,3 +4,4 @@
 </p>
 <p><em>CLOUD ENGINEER INTERN at <a href="http://www.amital.co.id">Aku Mitra Digital</a></em></p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
