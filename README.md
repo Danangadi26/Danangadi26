@@ -5,7 +5,6 @@
 <p><em>CLOUD ENGINEER INTERN at <a href="http://www.amital.co.id">Aku Mitra Digital</a></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...  
----
 ```js
 import Cloud Engineer Intern from 'Danang Adi Nugroho';
 
@@ -25,7 +24,7 @@ class Skills extends Cloud Engineer Intern {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Meet new people,</b> share new stories. <b>Let's connect!</b> ✨</em>
-
+---
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
